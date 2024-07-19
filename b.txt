@@ -1,2 +1,2 @@
 Testando atualização
-feature para enviar para a master
+feature para enviar para a main
