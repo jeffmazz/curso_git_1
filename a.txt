@@ -1,2 +1,3 @@
 Atualizando arquivo pelo github para realização do git pull
 Enviando a funcionalidade a
+Enviando a funcionalidade b
