@@ -1,1 +1,2 @@
 Atualizando arquivo pelo github para realização do git pull
+Mostrando para minha namorada o show/branch/git/commit/essas coisas
